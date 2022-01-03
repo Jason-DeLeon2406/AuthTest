@@ -1,1 +1,1 @@
-Login and Register Test using Vue Authentication and Laravel
+Login and Register Test Web App using Vue Authentication and Laravel
